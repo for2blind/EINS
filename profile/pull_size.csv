@@ -1,0 +1,10 @@
+model_name,pull_size
+resnet34,87342541
+cnn,281349
+vggnet11,531466083
+mobilenet,14285005
+lstm,6807
+resnet18,46844045
+shufflenet,9306589
+mnist,6559519
+resnet50,102560385
